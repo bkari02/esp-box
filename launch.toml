@@ -5,6 +5,7 @@ supported_apps = [
     "ESP-BOX-3_Demo_V1_1_1",
     "ESP-BOX-3_ChatGPT_Demo_V1_0",
     "ESP-BOX-3_MATTER_SWITCH_Demo_V1_0",
+    "ESP-BOX-3_USB_CAM_Demo_V1_0",
 
     "ESP-BOX_Demo_CN_V0_3_0",
     "ESP-BOX_Demo_EN_V0_3_0", 
